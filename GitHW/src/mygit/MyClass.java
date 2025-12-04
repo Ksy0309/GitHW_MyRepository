@@ -5,5 +5,7 @@ public class MyClass {
 		System.out.println("Hello Git!");
 		System.out.println("Hello Git!222222222222");
 		System.out.println("Hello Git!333333333333");
+		YourClass your = new YourClass();
+		your.sayHello("Everyone");
 	}
 }
